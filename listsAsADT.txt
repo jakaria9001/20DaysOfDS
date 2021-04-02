@@ -1,0 +1,10 @@
+Arrays - 
+     - Store elements of particular Data Type.
+     - Modify elements at given position.
+     - Read element at a position. 
+-- But arrays are of fixed size.
+  
+List - 
+     - It shouls be dynamic with no fixed size.
+     - insert, remove, count, read/modify element at a position.
+     - specific Data type.
