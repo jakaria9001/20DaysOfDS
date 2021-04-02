@@ -1,0 +1,14 @@
+Array : 
+1. Constant time for access. O(1)
+2. Address to all the elements is available.
+3. Fixed size.
+4. Contigouous memory is required.
+5. Insertion - a) at begining = O(n) b) at end= O(1) c) at Nth position = O(n)
+6. Ease of use - array.
+
+Linked List : 
+1. Linear time for access. O(n)
+2. Address of head node is only known.
+3. No unused memory, extra memory for pointer variable.
+4. Random allocation of memory.
+5. Insertion - a) at begining = O(1) b) at end= O(n) c) at Nth position = O(n)
