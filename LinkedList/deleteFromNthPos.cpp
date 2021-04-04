@@ -41,29 +41,6 @@ Node* deleteFromNthPos(Node* head, int n){
     return head;
     
 }
-Node* insertAtNthPos(Node* head, int x, int n){
-    int l = length(head);
-    if(n<1 || n>l+1){ cout<<"Invalid position."; return head; }
-    
-    Node *nn = new Node(x);
-    if(head==NULL) // this condn is optional as n==1 does the work.
-         return nn; 
-    if(n==1){
-        nn->next = head;
-        head = nn;
-        return head;
-    }
-    
-    Node *thead = head;
-    
-    for(int i=1;i<n-1;i++)
-        thead = thead->next;
-        
-    nn->next = thead->next;
-    thead->next = nn;
-    
-    return head;
-}
 void printLL(Node* head){
     cout<<"Current Linked List:  ";
     if(!head) cout<<"Empty List\n";
@@ -89,17 +66,6 @@ int main()
     printLL(head);  //Printing LL 
     // printLL(head); 
     Node *nhead = head;
-    
-    // insert at nth position :
-    cout<<"No of queries for insertion: ";
-    cin>>q;
-    while(q--){
-        cout<<"\nEnter value and position : ";
-        int x0,n0; 
-        cin>>x0>>n0;
-        nhead = insertAtNthPos(nhead, x0, n0);
-        printLL(nhead);
-    }
     
     // delete from nth position : 
     cout<<"No of queries for deletion: ";
