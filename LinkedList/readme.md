@@ -6,4 +6,5 @@ Content :
 4. <a href="https://github.com/jakaria9001/20DaysOfDS/blob/main/LinkedList/insertAtBeg.cpp"> Insert at begining </a> </br>
 5. <a href="https://github.com/jakaria9001/20DaysOfDS/blob/main/LinkedList/insertAtNthPos.cpp"> Insert at nth position </a> </br>
 6. <a href="https://github.com/jakaria9001/20DaysOfDS/blob/main/LinkedList/deleteFromNthPos.cpp"> Delete from nth position </a> </br>
-7. Coming Soon. . .
+7. <a href="https://github.com/jakaria9001/20DaysOfDS/blob/main/LinkedList/iterativeReverseLL.cpp"> Reverse Linked List (Iterative)</a> </br>
+8. Coming Soon. . .
