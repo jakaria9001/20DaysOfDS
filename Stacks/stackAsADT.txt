@@ -1,0 +1,24 @@
+
+A collection of data with only the top element accessible.
+Ex - book shelf, deck of cards, Tower of Hanoi, Balls in a jar.
+
+It follows LIFO principle.
+
+Stack as ADT : 
+A list with the restriction that insertion and deletions are only performed from one end ( top).
+
+Operations: 
+1. Push(x)
+2. Pop()
+3. Top()
+4. isempty()
+
+All opertions are O(1) time.
+
+Applications : 
+1. Functions calls/recursion.
+2. Undo/Redo in text editors.
+3. Balanced paranthesis.
+4. Tower of Hanoi Check.
+
+
