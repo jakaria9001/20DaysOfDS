@@ -5,4 +5,8 @@ Follow the following links to go see the codes, also their corresponding outputs
 
 2. [Stacks implementaion using Linked List](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/stackImpLL.cpp)
 
-   Output: <br> ![Alt Text](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/stackUsingLL.png)
+   Output: <br> ![Stack using LL](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/stackUsingLL.png)
+   
+3. [Reverse String and Linked List using Stack](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/reverseStringNLL.cpp)
+
+   Output: <br> ![reversing](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/reversingStringLL.png)
