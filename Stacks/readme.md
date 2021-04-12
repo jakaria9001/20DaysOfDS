@@ -10,3 +10,7 @@ Follow the following links to go see the codes, also their corresponding outputs
 3. [Reverse String and Linked List using Stack](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/reverseStringNLL.cpp)
 
    Output: <br> ![reversing](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/reversingStringLL.png)
+   
+4. [Parenthesis Validation](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/parenthesisChecker.cpp)
+   
+   Output: <br> ![parenthesis valid](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/parenthesisChecker.png)
