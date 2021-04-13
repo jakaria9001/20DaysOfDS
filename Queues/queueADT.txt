@@ -1,0 +1,32 @@
+
+
+Queue ADT: 
+
+-- FIFO, first in first out.
+-- insertion is in the rear end, deletion from the front end.
+-- Definition: It is an abstract data type, where insertion is done in one end(rear)
+                and deletion is performed at the other end(front).
+-- Operations:
+    1. Enqueue : insertion (push) at rear;
+    2. Dequque : deletion (pop) from front;
+    3. front() or peek()
+    4. empty()
+    
+-- Enqueue - dequeue operations :
+    enqueue(4)
+    4
+    enqueue(5)
+    5 4
+    enqueue(8)
+    8 5 4
+    dequeue()
+    8 5
+    front()
+    5
+    empty()
+    false
+-- Use cases:
+    1. Shared resource that can handle one request at a time. ex - printer
+    2. Processor of CPU's.
+    3. Simulating wait.
+    
