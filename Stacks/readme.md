@@ -14,3 +14,8 @@ Follow the following links to go see the codes, also their corresponding outputs
 4. [Parenthesis Validation](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/parenthesisChecker.cpp)
    
    Output: <br> ![parenthesis valid](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/parenthesisChecker.png)
+
+5. [Evaluation of Postfix and Prefix Expression Using stack](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/evalOfPostPreExpr.cpp)
+
+6. [Conversion of infix to postfix expression](https://github.com/jakaria9001/20DaysOfDS/blob/main/Stacks/infixToPostfix.cpp)
+
